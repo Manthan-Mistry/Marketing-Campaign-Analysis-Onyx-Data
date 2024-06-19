@@ -15,7 +15,7 @@ Total spends for Pinterest is roughly half (0.5x) of what other channels are sep
 
 
 4. Cost per Mille (CPM) and Cost per Conversion (CPA) Comparision:
-Heres as well **Pinterest is spending just 2.4 pounds for conversion whereas facebook and instagram are spending (5.5 and 4.1 pounds respectively)** which is almost double.
+Heres as well **Pinterest is spending just 2.4 pounds for CPA whereas facebook and instagram are spending (5.5 and 4.1 pounds respectively)** which is almost double.
 Same is true **for CPM where Pintrest is spending just 6.5 pounds whereas facebook and instagram are spending (13.2 and 13.1 pounds respectively)** which also is 2x.
 
 
