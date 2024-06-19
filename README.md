@@ -40,3 +40,8 @@ B. **Impressions V/s CTR** with positive correlation is another indicator that a
 C. **CPC V/s CTR** is slightly Positive indicating that current platform is not appreciating higher CTR and is not giving any benifit for CPC. On the other hand **Impressions V/s CPC** correlation is telling other story, benefiting us. Can compare to another platform and decide if change of platform is needed or not.
 
 D. **ROAS V/s Conversion Rate** is showing Postive correlation suggesting that revenue generated is higher.
+
+
+
+## Project Images:
+![Overview ](https://drive.google.com/file/d/11lZi-OdI9W93CePLOB0__ATqjHg-1Ifr/view?usp=drive_link)
