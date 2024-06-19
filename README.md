@@ -1,3 +1,5 @@
+![Overview](https://github.com/Manthan-Mistry/Marketing-Campaign-Analysis-Onyx-Data/blob/main/Overview.PNG)
+
 # Observations:
 
 **Is Facebook OVERRATED for Digital Marketing Campaign ?**
@@ -44,4 +46,7 @@ D. **ROAS V/s Conversion Rate** is showing Postive correlation suggesting that r
 
 
 ## Project Images:
-![Overview ](https://drive.google.com/file/d/11lZi-OdI9W93CePLOB0__ATqjHg-1Ifr/view?usp=drive_link)
+![Distribution by Device](https://github.com/Manthan-Mistry/Marketing-Campaign-Analysis-Onyx-Data/blob/main/Device%20Page.PNG)
+![Correlations](https://github.com/Manthan-Mistry/Marketing-Campaign-Analysis-Onyx-Data/blob/main/Correlations%20Page%202.PNG)
+![Bar View](https://github.com/Manthan-Mistry/Marketing-Campaign-Analysis-Onyx-Data/blob/main/Bar%20Page.PNG)
+![Matrix View](https://github.com/Manthan-Mistry/Marketing-Campaign-Analysis-Onyx-Data/blob/main/Matrix%20Page.PNG)
